@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    /*list-style-type:upper-alpha;
+    list-style-position: inside;
+    list-style-image: url("./images/Food-Dome-icon.png");*/
+
+    list-style: none;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+
+}
+li{
+    display: inline;
+    padding: 10px;
+
+}
+
+.baslik{
+    font-family: 'Permanent Marker', cursive;
+}
+
+img{
+    width: 100%;
+    height: 500px;
+}
+
+
+/*ul li::before{
+    content: "\1F340" ; 
+}/*
